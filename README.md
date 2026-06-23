@@ -1,1 +1,0 @@
-# Atividade-8---listagem-de-exerc-cios-JavaScript
